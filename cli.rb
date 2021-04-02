@@ -1,4 +1,4 @@
-class FASTBuild < Formula
+class Cli < Formula
     desc "High performance build system for Windows, OSX and Linux. Supporting caching, network distribution and more."
     homepage "https://github.com/fastbuild/fastbuild"
     version "1.0.4"
